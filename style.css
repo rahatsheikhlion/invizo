@@ -1,0 +1,186 @@
+* {
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: rgb(252, 253, 253);
+    list-style: none;
+
+}
+
+   
+#logo{margin-right: 1100px;
+padding-top: 50px;}
+
+.classnav {
+    display: inline;
+
+}
+
+nav {
+    text-align: right;
+    font-family: Zilla Slab;
+    font-size: 19px;
+    margin-right: 92px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: #546f7a;
+}
+
+a:hover {
+    color: rgb(101, 101, 197);
+}
+
+h1 {
+    text-align: center;
+    color: #142344;
+    font-family: Zilla Slab;
+    font-size: 48px;
+    line-height: 1.2em;
+    font-weight: 500;
+    margin-top: 500px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 25px;
+}
+
+h4 {
+    text-align: center;
+    color: #546f7a;
+    font-family: zilla slab;
+    font-weight: 500;
+}
+
+.inputemails {
+    margin-left: 300px;
+}
+
+/*.downbox {
+    border: 1px solid rgb(202, 202, 3);
+    color: rgb(202, 202, 3);
+    background: rgb(202, 202, 3);
+    width: 50px;
+    height: 50px;
+    position: relative;
+
+}
+
+.upbox {
+    border: 1px solid rgb(26, 26, 248);
+    color: rgb(26, 26, 248);
+    background: rgb(26, 26, 248);
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    margin-bottom: 80px;*/
+}
+
+#explor {
+    margin-right: 100px;
+    text-align: right;
+    padding-right: 60px;
+}
+
+.explor {
+    display: inline;
+    margin: 90px;
+    text-align: right;
+    font-size: 21px;
+    color: #546f7a;
+    font-family: zilla slab;
+    padding-bottom: 50px;
+}
+
+
+
+
+
+.faq1 {
+
+    display: inline;
+    font-size: 18px;
+    color: #546f7a;
+    font-family: zilla slab;
+    border: 1px solid rgb(253, 251, 251);
+    margin-left: 207px;
+    padding-top: 30px;
+
+}
+
+.faq2 {
+
+    display: inline;
+    font-size: 18px;
+    color: #546f7a;
+    font-family: zilla slab;
+    border: 1px solid rgb(250, 249, 249);
+    margin-left: 130px;
+
+
+
+}
+
+.faq4 {
+
+    display: inline;
+    font-size: 18px;
+    color: #546f7a;
+    font-family: zilla slab;
+    border: 1px solid rgb(250, 247, 247);
+    margin-left: 470px;
+    padding-bottom: 30px;
+}
+
+
+.faq3 {
+
+    display: inline;
+    font-size: 18px;
+    color: #546f7a;
+    font-family: zilla slab;
+    border: 1px solid rgb(248, 247, 247);
+    margin-right: 150px;
+    margin-left: 150px;
+
+
+}
+
+.faq3:hover {
+    color: blue;
+    right: 2px;
+}
+
+.faq2:hover {
+    color: blue;
+    nav-right: 30px;
+}
+
+.faq4:hover {
+
+    color: blue;
+    right: 30px;
+}
+
+.faq1:hover {
+
+    color: blue;
+    right: 30px;
+}
+h5{
+    display: inline;
+    font-size: 18px;
+    color: #546f7a;
+    margin: 70px;
+}
+h6{
+    text-align: center;
+    color: #546f7a;
+    font-size: 20px;
+    font-family: zilla slab;
+
+}
